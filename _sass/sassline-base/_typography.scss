@@ -57,14 +57,24 @@ a {
     font-feature-settings: 'kern', 'onum', 'liga';
   }
 
-  // Headings. OpenType ligatures, discretionary ligatures and lining figures enabled if available.
-  h1, h2, h3, h4, h5, h6 {
-    color: $headingColour;
-    font-family: unquote(map-get($headingtype, font-family));
-    font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
-    font-style: normal;
-    font-weight: map-get($headingtype, bold);
-  }
+// Headings. OpenType ligatures, discretionary ligatures and lining figures enabled if available.
+h1, h2, h3, h4, h5, h6 {
+  color: $headingColour;
+  font-family: unquote(map-get($headingtype, font-family));
+  font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
+  font-style: normal;
+  font-weight: map-get($headingtype, bold);
+  display: flex; /* Use flexbox for alignment */
+  align-items: center; /* Center align vertically */
+}
+
+h1::before {
+  content: url(../../assets/logos/cyrkiel-sm.png);
+  display: block; /* Make the pseudo-element a block-level element */
+  margin-right: 10px; /* Add some space between the image and the text */
+}
+
+
 
   // Heading level 1.
   h1, .alpha {

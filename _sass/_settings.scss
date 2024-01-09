@@ -1,29 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Limelight&display=swap');
+
+
 // Background colours
 $backgroundColour: #ffffff !default;
 $codeBackgroundColour: #fafafa !default;
-$featureBackgroundColour: #f9fafa !default;
-$accentColour: #05bf85 !default;
+$featureBackgroundColour: rgb(201, 201, 201) !default;
+$accentColour: #025037 !default;
 
 // Text colours
 $headingColour: #242e2b !default;
 $bodyColour: #384743 !default;
-$linkColour: #05bf85 !default;
+$linkColour: #005f41 !default;
 $hoverColour: #008000 !default;
-$focusColour: #fa407a !default;
+$focusColour: #68102a !default;
 $captionColour: #a8adac !default;
 $white: #ffffff !default;
 
 // Typography
 $bodytype: (
-  font-family: "Georgia, serif",
-  regular: 400,
+  font-family: "Lato, sans-serif",
+  regular: 200,
   bold: 700,
   italic: italic,
   cap-height: 0.75
 ) !default;
 
 $headingtype: (
-  font-family: '"Merriweather", serif',
+  font-family: "Limelight, serif",
   regular: 400,
   bold: 700,
   cap-height: 0.75

@@ -1,6 +1,6 @@
 {% if site.navigation_header %}
-<nav class="nav  nav--header">
-  <ul class="list  list--nav">
+<nav class="nav  nav--header ">
+  <ul class="list  list--nav ">
     {% for item in site.navigation_header %}
 
       {% if item.url contains '://' %}
@@ -10,7 +10,7 @@
       {% endif %}
 
       <li class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
-        <a href="{{ url }}">{{ item.title }}</a>
+        <a class="hover-underlines" href="{{ url }}">{{ item.title }}</a>
       </li>
     {% endfor %}
   </ul>
