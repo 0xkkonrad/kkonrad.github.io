@@ -1,5 +1,6 @@
 ---
 title: Obchody Powstania Warszawskiego przez Welecję
+feature_image: "/assets/images/archive/image63.jpg"
 ---
 
 Pierwszego sierpnia Welecja upamiętniła bohaterów i ofiary Powstania Warszawskiego.
