@@ -5,10 +5,9 @@ excerpt: "Korporacje skartelowane z Welecją"
 ---
 
 
-**Prezydium Welecji na rok akademicki 2023/2024:**
+Prezydium Welecji na rok akademicki 2023/2024:
 
 | | |
-| --- | --- |
 | Prezes: | Albert Pielak |
 | Wiceprezes zewnętrzny: | Maciej Sygit |
 | Wiceprezes wewnętrzny: | Mateusz Nocuń |
@@ -16,13 +15,14 @@ excerpt: "Korporacje skartelowane z Welecją"
 | Skarbnik: | Łukasz Szostak |
 
 
-**We wszystkich sprawach prosimy o list na adres:**  
+
+We wszystkich sprawach prosimy o list na adres:  
 [welecja@welecja.pl](mailto:welecja@welecja.pl)
 
-**Zachęcamy do odwiedzenia naszego profilu na facebooku:**  
+Zachęcamy do odwiedzenia naszego profilu na facebooku:  
 [http://www.facebook.pl/welecja1883](http://www.facebook.pl/welecja1883)
 
-**Korespondecję tradycyjną prosimy kierować na adres:**  
+Korespondecję tradycyjną prosimy kierować na adres:  
 KORPORACJA AKADEMICKA WELECJA  
 Skrytka pocztowa 99  
 00-950, Warszawa 1

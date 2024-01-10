@@ -1,9 +1,9 @@
 ---
 title: Podstawy
-feature_text: |
-  ##  Welecja
-  Korporacja Akademicka
-feature_image: "https://picsum.photos/1300/400?image=989"
+# feature_text: |
+#   ##  Welecja
+#   Korporacja Akademicka
+# feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Podstawą Welecji jest dewiza Viribus Unitis Suum Cuique - co w języku polskim znaczy wspólnymi siłami każdemu oddać co mu się należy."
 ---
 

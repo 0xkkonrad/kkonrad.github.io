@@ -1,7 +1,7 @@
 ---
-title: Wprowadzenie
-feature_text: |
-  ##  Korporacja Akademicka Welecja
+title: Welecja
+# feature_text: |
+#   ##  Korporacja Akademicka Welecja
 # Korporacja Akademicka
 # feature_image: "/assets/images/bg-rozeta.png"
 excerpt: "Welecja jest polską korporacja akademicką założoną w 1883 r. w Rydze, gdzie w owym czasie studiowało bardzo wielu Polaków. Po I wojnie światowej i restytucji państwowości polskiej zostałą przeniesiona do Warszawy. "

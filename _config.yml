@@ -67,7 +67,7 @@ collections:
     # description: "Aktualności Weleckie" # The post list page content
     # feature_text: |
     #   Welcome to the blog
-    feature_image: "/assets/images/140lecie.jpg"
+    # feature_image: "/assets/images/140lecie.jpg"
 
 # 6. Jekyll collections settings
 defaults:
@@ -121,8 +121,8 @@ navigation_header:
   url: /blog/
 - title: Historia
   url: /historia/
-- title: Korporacje
-  url: /Korporacje/
+- title: Kartele
+  url: /Kartele/
 - title: Kontakt
   url: /kontakt/
 - title: Archiwum&#8599;
