@@ -1,0 +1,33 @@
+name: Update and Build Site
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # This will run the workflow hourly; adjust as needed.
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout main repository
+      uses: actions/checkout@v2
+      with:
+        submodules: true  # Ensure submodules are checked out
+
+    - name: Update Submodules
+      run: |
+        cd _posts
+        git pull
+        cd ../assets/images
+        git pull
+
+    - name: Build Jekyll Site
+      run: |
+        # Add steps to build your Jekyll site, e.g.,
+        bundle install
+        bundle exec jekyll build
+
+    - name: Deploy
+      run: |
+        # Add steps to deploy your site, e.g., to GitHub Pages, an FTP server, etc.
