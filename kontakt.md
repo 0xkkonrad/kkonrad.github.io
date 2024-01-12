@@ -15,18 +15,7 @@ Prezydium Welecji na rok akademicki 2023/2024:
 | Skarbnik | kol. Aleksander Czułowski |
 
 
-Oraz pozostałe urzędy:
-
-| --- | --- |
-| Olderman | kol. Mateusz Nocuń |
-| Komisja Rewizyjna | kol. Maciej Sygit, kol. Jędrzej Skawina, kol. Mateusz Nocuń |
-| Przewodniczący WS | kol. Mateusz Stańczyk |
-| Wydział Sądowy | kol. Ignacy Bojaryn, kol. Aleksander Czułowski, kol. Jędrzej Skawina, kol. Maciej Wilk |
-| Wydział Naukowy | kol. Ignacy Bojaryn, kol. Mateusz Nocuń, kol. Maciej Sygit, kol. Maciej Wilk, kol. Adam Kobiernik |
-| Kwatermistrz | kol. Adam Kobiernik |
-| Mistrz spotkań towarzyskich | kol. Ignacy Bojaryn |
-| Magister Paucandi | kol. Kamil Zabawa |
-| Magister Cantandi | kol. Ignacy Bojaryn |
+Oldermanem został kol. Mateusz Nocuń
 
 
 

@@ -10,4 +10,4 @@ excerpt: "Korporacje skartelowane z Welecją"
 - [Arkonia](http://www.arkonia.pl/), Warszawa (zał. w Rydze w 1879 r.)
 - [Vironia](http://www.vironia.ee/), Dorpat (Tartu) (zał. w Rydze w 1900 r.)
 - [Talavija](http://www.talavija.lv/), Ryga (Riga) (zał. w Rydze w 1900 r.)
-- [Jagiellonia](http://pl.wikipedia.org/wiki/Jagiellonia_(korporacja)), Warszawa (zał. w Wiedniu w 1910 r.)
+- [Jagiellonia](http://pl.wikipedia.org/wiki/Jagiellonia_(korporacja)), Łódź (zał. w Wiedniu w 1910 r.)
