@@ -15,7 +15,8 @@ Every time you upload or change files in your repository, GitHub Pages rebuilds 
 - Go to the `_posts` directory in your repository. This is where your blog posts are stored.
 - Click on `Add file` > `Create new file`.
 
-### 3. **Name Your File**: Use the format `YEAR-MONTH-DAY-title.md` (e.g., `2024-01-10-my-first-post.md`). Ensure the file extension is .md, which stands for Markdown. If the file name is malformatted, the post will not be displayed!
+### 3. **Name Your File**
+Use the format `YEAR-MONTH-DAY-title.md` (e.g., `2024-01-10-my-first-post.md`). Ensure the file extension is .md, which stands for Markdown. If the file name is malformatted, the post will not be displayed!
 
 ### 4. Writing Your Blog Post
 - At the top of the file, add front matter. It should look like this:
@@ -28,7 +29,7 @@ Every time you upload or change files in your repository, GitHub Pages rebuilds 
   ---
   ```
 
-categories and feature_image are optional. Below the front matter, write your blog post. You can use Markdown to format your text. See [Markdown Guide](https://www.markdownguide.org/basic-syntax/) for syntax help. Also see [Elements](https://www.welecja.pl/elements/) for what kind of elements (headers, maps, videos etc.) can be included in posts.
+categories and feature_image are optional (see section to learn how to upload images). Below the front matter, write your blog post. You can use Markdown to format your text. See [Markdown Guide](https://www.markdownguide.org/basic-syntax/) for syntax help. Also see [Elements](https://www.welecja.pl/elements/) for what kind of elements (headers, maps, videos etc.) can be included in posts.
 
 ### 5. Saving Your Blog Post
 - Scroll down to the bottom of the page.
