@@ -1,4 +1,4 @@
-# README: Managing Blog Posts in Aktualności
+# README
 
 Welcome to your Jekyll blog hosted on GitHub Pages! This guide is tailored for beginners and will help you add new blog posts and images to your site. Whether you're new to GitHub or Git, or just want to understand why we're using Jekyll, you're in the right place.
 
@@ -9,7 +9,10 @@ Every time you upload or change files in your repository, GitHub Pages rebuilds 
 
 ## Adding Blog Posts
 
-### 1. **Navigate to Your Repository**: Log in to GitHub and open your site's repository.
+### 1. **Navigate to Your Repository**
+1. Sign up and log in to GitHub and open your site's [repository](https://github.com/welecja/welecja.github.io).
+2. Enable [multifactor authentication](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication). This is crucial as Github repository access can give a hacker full control over the site. 
+3. Make sure you have been added to the repository.
 
 ### 2. Creating a New Blog Post
 - Go to the `_posts` directory in your repository. This is where your blog posts are stored.
