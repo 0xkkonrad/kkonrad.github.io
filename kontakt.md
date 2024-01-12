@@ -7,8 +7,6 @@ excerpt: "Korporacje skartelowane z Welecją"
 
 Prezydium Welecji na rok akademicki 2023/2024:
 
-Prezydium Welecji na rok akademicki 2023/2024:
-
 | --- | --- |
 | Prezes | kol. Mateusz Stańczyk |
 | Wiceprezes wewnętrzny | kol. Adam Kobiernik |
@@ -16,9 +14,8 @@ Prezydium Welecji na rok akademicki 2023/2024:
 | Sekretarz | kol. Ignacy Bojaryn |
 | Skarbnik | kol. Aleksander Czułowski |
 
-
-
 Oraz pozostałe urzędy:
+
 | --- | --- |
 | Olderman | kol. Mateusz Nocuń |
 | Komisja Rewizyjna | kol. Maciej Sygit, kol. Jędrzej Skawina, kol. Mateusz Nocuń |
@@ -29,6 +26,7 @@ Oraz pozostałe urzędy:
 | Mistrz spotkań towarzyskich | kol. Ignacy Bojaryn |
 | Magister Paucandi | kol. Kamil Zabawa |
 | Magister Cantandi | kol. Ignacy Bojaryn |
+
 
 
 
