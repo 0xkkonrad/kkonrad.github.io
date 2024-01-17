@@ -52,7 +52,7 @@ categories and feature_image are optional (see section to learn how to upload im
 2. **Insert Images into Posts**: Use `{% include figure.html image="/assets/images/FILENAME.jpg" caption="CAPTION" width="WIDTH" height="HEIGHT" %}` in your post files. Replace `FILENAME.jpg`, `CAPTION`, `WIDTH`, and `HEIGHT` with your details.
 
 ## Warnings and Best Practices
-- **Avoid Unnecessary File Changes**: Only modify files in `_posts`, `assets/images`, and `_pages`. Changes elsewhere can disrupt your site.
+- **Avoid Unnecessary File Changes**: Only modify files in `_posts`, `assets/images`, and `_pages`. Changes elsewhere WILL BREAK the entire site.
 - **Use Authorized Images**: Ensure you have the rights to use and share any images you upload.
 
 ## Finalizing Changes
