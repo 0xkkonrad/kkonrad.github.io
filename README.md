@@ -1,6 +1,9 @@
 # README
 
-Welcome to your Jekyll blog hosted on GitHub Pages! This guide is tailored for beginners and will help you add new blog posts and images to your site. Whether you're new to GitHub or Git, or just want to understand why we're using Jekyll, you're in the right place.
+This guide is tailored for beginners and will help you add new blog posts and images to your site. Whether you're new to GitHub or Git, or just want to understand why we're using Jekyll, you're in the right place.
+
+## Background
+This site is set up such that there are some folders with content files (blog posts, images, etc). These are written using markdown, which is a an easy format for text. Then there are some scripts (simple computer programmes) that take these files and make them part of the website. In other words, you can add blogposts and images without knowing how to code!
 
 ## Why Precision Matters
 Every time you upload or change files in your repository, GitHub Pages rebuilds your site. Precise naming, file placement, and syntax are crucial because:
