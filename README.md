@@ -15,7 +15,7 @@ Every time you upload or change files in your repository, GitHub Pages rebuilds 
 ### 1. **Navigate to Your Repository**
 1. Sign up and log in to GitHub and open your site's [repository](https://github.com/welecja/welecja.github.io).
 2. Enable [multifactor authentication](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication). This is crucial as Github repository access can give a hacker full control over the site. 
-3. Make sure you have been added to the repository.
+3. Make sure you have been added to the repository by the superadmin (in this case Konrad Urban).
 
 ### 2. Creating a New Blog Post
 - Go to the `_posts` directory in your repository. This is where your blog posts are stored.
