@@ -92,7 +92,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: pl-PL # Set the site language
 title: "kkonrad's thoughts" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/herb.png" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/k.png" # Site logo, also used in jekyll-seo-tag
 description: "kkonrad" # Site description and default description, also used in jekyll-seo-tag
 url: "https://kkonrad.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
