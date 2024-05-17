@@ -1,8 +1,5 @@
 ---
 title: Historia
-# feature_text: Krótkie wprowadzenie do historii Welecji
-# feature_image: "https://picsum.photos/2560/600?image=873"
-# excerpt: "Krótkie wprowadzenie do historii Welecji"
 aside: false
 ---
 

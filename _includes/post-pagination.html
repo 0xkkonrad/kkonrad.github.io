@@ -3,13 +3,13 @@
   {% if paginator.previous_page %}
     <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="pagination  pagination--previous">&larr; Nowsze</a>
   {% else %}
-    <span class="pagination  pagination--previous">&larr; Nowsze</span>
+    <span class="pagination  pagination--previous">&larr; Older</span>
   {% endif %}
 
   <span class="pagination  pagination--counter">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
 
   {% if paginator.next_page %}
-    <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="pagination  pagination--next">Starsze &rarr;</a>
+    <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="pagination  pagination--next">Newer &rarr;</a>
   {% else %}
     <span class="pagination  pagination--next">Starsze &rarr;</span>
   {% endif %}

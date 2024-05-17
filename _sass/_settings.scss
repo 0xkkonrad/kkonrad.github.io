@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Limelight&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12&family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Limelight&display=swap');
 
 
 // Background colours
@@ -26,10 +26,10 @@ $bodytype: (
 ) !default;
 
 $headingtype: (
-  font-family: "Limelight, serif",
+  font-family: 'Limelight, sans-serif',
   regular: 400,
   bold: 700,
-  cap-height: 0.75
+  cap-height: 0.66
 ) !default;
 
 $monospacetype: (
